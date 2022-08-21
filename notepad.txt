@@ -4,3 +4,4 @@ Disk clean up
 reset window
 screenrec /obs best for screen recording
 Haider jan
+turi
